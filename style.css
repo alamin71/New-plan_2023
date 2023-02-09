@@ -1,36 +1,92 @@
-*{
+* {
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+
 /* header section strat */
-.header-section{
+.header-section {
     background-image: url(images/banner/banner1.png);
     align-items: center;
     width: 1600px;
     height: 800px;
 }
-.Header-title{
+
+.Header-title {
     text-align: right;
     padding-top: 200px;
     padding-right: 250px;
     padding-bottom: 500px;
 }
-.Heading-title{
+
+.Heading-title {
     font-weight: 700;
     font-size: 45px;
 }
-.header-description{
-margin-top: 25px;
+
+.header-description {
+    margin-top: 25px;
 }
-.btn-primary{
-   background-color: #F15B22;
-   color: #FFFFFF;
-   font-weight: 700;
-   font-size: 20px;
-   border: 0;
-   padding: 18px 35px;
-   height: 64px;
-   border-radius:5px;
-   margin-top: 25px;
+
+.btn-primary {
+    background-color: #F15B22;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    margin-top: 25px;
 }
+
 /* header section end */
+
+/* second section start */
+.second-section {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.second-section-img {
+    margin-left: 120px;
+}
+
+.second-section-title {
+    margin-left: 120px;
+}
+
+.second-section-description {
+    margin-top: 20px;
+}
+
+/* second section end */
+
+/* third sectin start */
+
+.third-section-title {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgb(120, 120, 250);
+}
+.third-section-description{
+    display: flex;
+    justify-content: center;
+}
+.img-1{
+    padding: 20px 30px;
+   text-align: center;
+}
+.img-2{
+    padding: 20px 30px;
+   text-align: center;
+}
+.img-3{
+    padding: 20px 30px;
+   text-align: center;
+}
+.img-4{
+    padding: 20px 30px;
+   text-align: center;
+}
