@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* header section strat */
+.header-section{
+    background-image: url(images/banner/banner1.png);
+    align-items: center;
+    width: 1600px;
+    height: 800px;
+}
+.Header-title{
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 250px;
+    padding-bottom: 500px;
+}
+.Heading-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+.header-description{
+margin-top: 25px;
+}
+.btn-primary{
+   background-color: #F15B22;
+   color: #FFFFFF;
+   font-weight: 700;
+   font-size: 20px;
+   border: 0;
+   padding: 18px 35px;
+   height: 64px;
+   border-radius:5px;
+   margin-top: 25px;
+}
+/* header section end */
