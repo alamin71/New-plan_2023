@@ -90,3 +90,29 @@
     padding: 20px 30px;
    text-align: center;
 }
+/* third-section end */
+
+/* fourth-section-start */
+.fourth-section{
+    margin-top: 40px;
+    background-image: url(images/gradient1.png);
+    background-image: linear-gradient(to right, rgba(255,0,0,1), rgb(250, 153, 153));
+    margin-left: 240px;
+    width: 1140px;
+    height: 230px;
+    
+    
+}
+.fourth-section-title{
+    padding-top: 90px;
+    color:#FFFFFF;
+    margin-left: 150px;
+}
+.seocond-button{
+    background-color: #FFFFFF;
+    color: #F15B22;
+    margin-top: 10px;
+    padding:10px 18px;
+    border: 0;
+    border-radius: 5px;
+}
