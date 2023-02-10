@@ -124,8 +124,26 @@
     border: 0;
     border-radius: 5px;
 }
-
 /* fourth-section-end */
+
+/* fifth-section-start */
+.fifth-section{
+margin-left: 240px;
+}
+.fifth-section-title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.fifth-section-img{
+    width: 1140px;
+    height: 330px;
+    margin-bottom: 20px;
+}
+.fifth-section-description{
+    margin-bottom: 10px;
+}
+/* fifth-section-end */
 
 /* footer-section-start*/
 .footer-section {
